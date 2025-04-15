@@ -1,0 +1,10 @@
+                                        INITIAL REFLECTION
+Created a AyoAyo class with all the required methods and variables I would need.
+Added the skeleton for the Player class.
+Started implementing createPlayer adding one conditional check to ensure there can only be two players.
+                                        FINAL REFLECTION
+Implementing the round table feature on the game using pure loops soon became complicated.
+Decided to switch to using circular linked list instead.
+Created the Linked List class
+Created the Node class.
+Any functionality related to the seeds, pits or stores is housed in the linked list class which the Ayoayo class calls.
